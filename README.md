@@ -1,136 +1,122 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kaustubhkulkarni1598-Learning/kaustubhkulkarni1598-Learning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Kaustubh Kulkarni
 
-Here are some ideas to get you started:
+### ☁️ Microsoft 365 Analyst | 🔐 Cloud Security Enthusiast | 📊 Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">
-Hi 👋, I'm Kaustubh Kulkarni
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00A3FF&center=true&vCenter=true&width=900&lines=Microsoft+365+Specialist;Cloud+Security+Enthusiast;Power+BI+Developer;Python+%7C+SQL+Professional;Modern+Workplace+Solutions;Always+Learning+om/ghpvc/?username=kaustubhkulkarni1598-Learning&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<h3 align="center">
-Microsoft 365 Analyst | Cloud Security Enthusiast | Data Analyst | Continuous Learner 🚀
-</h3>
-
-<p align="center">
-me-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00A3FF&center=true&vCenter=true&width=900&lines=Microsoft+365+Analyst;Cloud+Security+Enthusiast;Data+Analytics+Professional;Power+BI+%7C+SQL+%7C+Python;Modern+Workplace+Solutions;Always+Learning+Something+New+🚀" />
-</p>
+</div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-🔹 Working as an Analyst with a focus on Microsoft 365 technologies
+💼 Working in Microsoft 365 Ecosystem
 
-🔹 Passionate about Cloud Security, Microsoft Security Solutions, and Compliance
+🔐 Passionate about Cloud Security & Identity Protection
 
-🔹 Building expertise in Security Operations, Modern Workplace, and Identity Management
+☁️ Learning Azure Cloud & Security Technologies
 
-🔹 Interested in Data Analytics, Automation, and Business Intelligence
+📊 Building skills in Analytics and Automation
 
-🔹 Continuously exploring Azure, Microsoft Defender, Entra ID, and Power Platform
+📈 Interested in Power BI, SQL, Python & Data Visualization
 
-🔹 Always looking to solve business problems using technology and analytics
-
----
-
-# 🔭 Current Focus
-
-✅ Microsoft 365 Administration
-
-✅ Microsoft Defender Suite
-
-✅ Microsoft Entra ID
-
-✅ Cloud Security
-
-✅ Security Operations
-
-✅ SQL
-
-✅ Power BI
-
-✅ Python Automation
-
-✅ Azure Fundamentals
-
-✅ Security Compliance
+🎯 Goal: Become a Microsoft Security & Cloud Expert
 
 ---
 
-# ☁️ Microsoft Technologies
+# 💻 Tech Stack
 
-<p align="left">
+## Microsoft Technologies
 
-<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=mogoColor=white
+https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white
 
-://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
 
-<img src="https://img.shields.io/badge/Microsoft_Defender-5C2for-the-badge
+!Entra ID
 
-<img src="https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge="https://img.shields.io/badge/Exchange_Online-0078D4?style=for-the-badge"/>
+https://img.shields.io/badge/Microsoft_Defender-5C2D91?style=for-the-badge
 
-<img srco/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint"/>
+https://img.shields.io/badge/Exchange_Online-0078D4?style=for-the-badge
 
-<img src="ms-6264A7?style=for-the-badge&logo=microsoftteams"/>
+https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint
 
-</p>
-
----
-
-# 📊 Analytics Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://img.ge"/>
-
-2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-<img src="https://imgyle=for-the-badge&logo=github"/>
-
-</p>
+https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams
 
 ---
 
-# 🌩️ Cloud & Security
+## Programming & Analytics
+
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python
+
+https://img.shields.io/badge/SQL-336791?style=for-the-badge
+
+https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
+
+https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel
+
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git
+
+![GitHub](https://img.shieldsGitHub-181717?style=for-the-badge&logo=github
+
+---
+
+# 🔐 Cloud Security Focus
 
 ```yaml
-Cloud:
-  - Microsoft Azure
-  - Microsoft 365
-
 Identity:
-  - Entra ID
-  - Authentication
+  - Microsoft Entra ID
+  - MFA
   - Conditional Access
 
 Security:
   - Microsoft Defender
+  - Security Compliance
   - Threat Protection
-  - Security Monitoring
-  - Compliance
+
+Cloud:
+  - Azure Fundamentals
+  - Microsoft 365
 
 Analytics:
-  - SQL
   - Power BI
+  - SQL
   - Python
 ```
+
+---
+
+# 🏅 Certifications Journey
+
+| Certification | Status |
+|--------------|---------|
+| MS-900 | 🎯 Planned |
+| SC-900 | 🎯 Planned |
+| AZ-900 | 🎯 Planned |
+| AI-900 | 🎯 Planned |
+| PL-900 | 🎯 Planned |
+| SC-200 | 🚀 Future Goal |
+
+---
+
+# 📂 Featured Projects
+
+## 📊 Microsoft 365 Security Dashboard
+
+Security Monitoring Dashboard using Power BI
+
+## 🔐 Cloud Security Learning Notes
+
+Azure & Security Learning Repository
+
+## 📈 Data Analytics Projects
+
+Python, SQL & Power BI Projects
+
+## 🤖 Automation Scripts
+
+Microsoft 365 & Admin Automation
 
 ---
 
@@ -138,5 +124,99 @@ Analytics:
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaustubhkul_icons=true&theme=tokyonight&hide_border=true
+<img height="180em" src="https://github-readme-stats.vercel.app/api?usernamerning&show_icons=true&theme=tokyonight&hide_border=true
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhkulkarni1598theme=tokyonight&hide_border=true
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+ats.herokuapp.com/?user=kaustubhkulkarni1598-Learning&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme=kaustubhkulkarni1598-Learning&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+-trophy.vercel.app/?username=kaustubhkulkarni1598-Learning&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🌟 Current Learning
+
+✅ Microsoft Defender
+
+✅ Entra ID
+
+✅ Azure Security
+
+✅ KQL Queries
+
+✅ Power BI
+
+✅ Python Automation
+
+✅ Cloud Governance
+
+✅ Security Compliance
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Earn SC-900
+- ✅ Earn AZ-900
+- ✅ Earn MS-900
+- ✅ Build Security Dashboard Portfolio
+- ✅ Contribute More to GitHub
+- ✅ Create Microsoft 365 Automation Projects
+
+---
+
+# 📫 Connect With Me
+
+<a href="https://linkedin.com/inKEDIN
+.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+kaustubhkulkarni1598@gmail.com
+<img src="https://img.shields.io/badge/Gmail-D14836-the-badge&logo=gmail&logoColor=white
+</a>
+
+---
+
+# ⚡ Fun Fact
+
+```text
+I enjoy solving business problems using
+Microsoft 365, Security, Data Analytics,
+Power BI, SQL and Automation.
+```
+
+---
+
+<div align="center">
+
+### ⭐ Transforming Security, Cloud & Data into Business Value
+
+</div>
